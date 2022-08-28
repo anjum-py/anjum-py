@@ -4,4 +4,4 @@ I'm Mohammed Anjum, an aspiring Python developer from Bengaluru, Karnataka, Indi
 
 Currently focused on building secure, scalable, resilient, and highly efficient cloud native solutions.
 
-While trying to solve problems over the past few years, I have contiuously updated my toolbelt to include tools and techniques that enable me to quickly recognize patterns and troubleshoot faster.
+While solving problems over the past few years, I have contiuously updated my toolbelt to include tools and techniques that enable me to quickly recognize patterns and troubleshoot faster.
