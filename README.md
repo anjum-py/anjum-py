@@ -14,6 +14,14 @@
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![CDK for Terraform](https://img.shields.io/badge/-CDK%20for%20Terraform-3949AB?style=for-the-badge&labelColor=3949AB&color=333333&logoColor=white)](https://cdk.tf/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![CI/CD](https://img.shields.io/badge/-CI%2FCD-555555?style=for-the-badge)](https://en.wikipedia.org/wiki/CI/CD)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Podman](https://img.shields.io/badge/-Podman-8CC84B?style=for-the-badge&logo=redhat&logoColor=white)](https://podman.io/)
+
 
 <!--
 **anjum-py/anjum-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
