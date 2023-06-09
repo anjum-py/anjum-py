@@ -13,7 +13,7 @@
 [![CDK for Terraform](https://img.shields.io/badge/-CDK%20for%20Terraform-3949AB?style=for-the-badge&logo=amazonaws&logoColor=white)](https://cdk.tf/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![CDK for Terraform](https://img.shields.io/badge/-CDK%20for%20Terraform-3949AB?style=for-the-badge&labelColor=3949AB&color=white)](https://cdk.tf/)
+[![CDK for Terraform](https://img.shields.io/badge/-CDK%20for%20Terraform-3949AB?style=for-the-badge&labelColor=3949AB&color=333333&logoColor=white)](https://cdk.tf/)
 
 <!--
 **anjum-py/anjum-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
