@@ -23,6 +23,13 @@
 [![Podman](https://img.shields.io/badge/-Podman-8CC84B?style=for-the-badge&logo=redhat&logoColor=white)](https://podman.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-anjum/)
 
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)](https://www.vagrantup.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![Nginx](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+[![Google Kubernetes Engine](https://img.shields.io/badge/-GKE-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://cloud.google.com/kubernetes-engine)
+[![Google Cloud Run](https://img.shields.io/badge/-Cloud%20Run-00B4AA?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/run)
 
 <!--
 **anjum-py/anjum-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
