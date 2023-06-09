@@ -9,9 +9,7 @@
 ### Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/joseconejerosivo/)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=092E20&labelColor=0C4B33)
-[![Django](https://img.shields.io/badge/-Django-0C4B33?style=for-the-badge&logo=django&logoColor=007BB6)](https://www.djangoproject.com/)
-[![Django](https://img.shields.io/badge/-Django-c4fcef?style=for-the-badge&logo=django&logoColor=0C4B33&labelColor=ffffff&color=092E20)](https://www.djangoproject.com/)
+//www.djangoproject.com/)
 <!--
 **anjum-py/anjum-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
