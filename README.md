@@ -6,6 +6,7 @@
 
 ### Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Wagtail CMS](https://img.shields.io/badge/-Wagtail%20CMS-336791?style=for-the-badge&logo=wagtail&logoColor=white)](https://wagtail.io/)
 [![Stimulus.js](https://img.shields.io/badge/-Stimulus.js-FF6719?style=for-the-badge&logo=stimulus&logoColor=white)](https://stimulus.hotwire.dev/)
 [![Turbo.js](https://img.shields.io/badge/-Turbo.js-1B1F23?style=for-the-badge&logo=turbo&logoColor=white)](https://turbo.hotwire.dev/)
