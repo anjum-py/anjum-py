@@ -38,6 +38,21 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-anjum/) to st
 
 Thank you for visiting my profile, and I look forward to working with you!
 
+
+## Certifications
+
+Clicking on the badge will take you to certificate credentials page.
+
+[![Google Certified Professional Cloud Developer](https://img.shields.io/badge/Google%20Certified-Professional%20Cloud%20Developer-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&maxAge=86400)](https://www.credential.net/bc08daf5-c854-48e1-94f4-961af1c980f6#gs.0ik95y)
+[![Python for Data Science](https://img.shields.io/badge/IBM-Python%20for%20Data%20Science-FF5722?logo=ibm&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/5fba2ddb-6bd7-4303-b904-03944a32fd94/public_url)
+[![Data Science Foundations Level 1](https://img.shields.io/badge/IBM-Data%20Science%20Foundations%20Level%201-4CAF50?logo=ibm&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/123d4536-a1d6-4b2d-bdb9-a90765126c35/public_url)
+[![Data Science Foundations Level 2](https://img.shields.io/badge/IBM-Data%20Science%20Foundations%20Level%202-9C27B0?logo=ibm&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/671208ad-8ae2-4fd5-8b2a-8e3d694d6476/public_url)
+[![CompTIA CySA+ ce Certification](https://img.shields.io/badge/CompTIA%20CySA%2B%20ce-fb9c15?logo=comptia&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/f942c126-59f9-4794-922e-052aaa2ce33b/public_url)
+[![CompTIA Security+ ce Certification](https://img.shields.io/badge/CompTIA%20Security%2B%20ce-00a2ed?logo=comptia&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/b9e1865a-830c-485e-9fc5-1b1ccf95f8d8)
+[![Splunk Enterprise Security Certified Admin](https://img.shields.io/badge/Splunk%20ES%20Certified%20Admin-ff5733?logo=splunk&logoColor=white&style=for-the-badge)](https://www.credly.com/badges/1c9bad25-459f-4a60-b4a4-aeb6952b697b/public_url)
+
+## Skills
+
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
